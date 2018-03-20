@@ -1,0 +1,97 @@
+2018-03-19 20:56:08 INFO  ChromeTest:22 - New Chrome browser session initiated.
+2018-03-19 20:56:08 INFO  ChromeTest:24 - Implicit Wait set to 10 seconds.
+2018-03-19 20:56:08 INFO  HomePage:21 - New HomePage Object created.
+2018-03-19 20:56:25 INFO  HomePage:27 - Website loaded with URL: https://damp-garden-55551.herokuapp.com/
+2018-03-19 20:56:26 INFO  HomePage:32 - Home page sidebar Admin link clicked.
+2018-03-19 20:56:26 INFO  AdminLoginPage:15 - New AdminLoginPage Object created.
+2018-03-19 20:56:26 INFO  AdminLoginPage:19 - Returning Admin Login page title
+2018-03-19 20:56:27 INFO  ChromeTest:30 - Chrome browser session ended.
+2018-03-19 21:24:52 INFO  ChromeTest:22 - New Chrome browser session initiated.
+2018-03-19 21:24:52 INFO  ChromeTest:24 - Implicit Wait set to 10 seconds.
+2018-03-19 21:24:52 INFO  NewArticleTest:40 - Beginning createArticleTest.
+2018-03-19 21:24:52 INFO  HomePage:21 - New HomePage Object created.
+2018-03-19 21:24:52 INFO  NewArticleTest:96 - Beginning goToArticleTest.
+2018-03-19 21:24:53 INFO  NewArticleTest:120 - Beginning deleteArticleTest.
+2018-03-19 21:24:53 INFO  ChromeTest:30 - Chrome browser session ended.
+2018-03-19 21:27:25 INFO  ChromeTest:22 - New Chrome browser session initiated.
+2018-03-19 21:27:25 INFO  ChromeTest:24 - Implicit Wait set to 10 seconds.
+2018-03-19 21:27:25 INFO  NewArticleTest:40 - Beginning createArticleTest.
+2018-03-19 21:27:25 INFO  HomePage:21 - New HomePage Object created.
+2018-03-19 21:27:25 INFO  NewArticleTest:96 - Beginning goToArticleTest.
+2018-03-19 21:27:25 INFO  NewArticleTest:120 - Beginning deleteArticleTest.
+2018-03-19 21:27:26 INFO  ChromeTest:30 - Chrome browser session ended.
+2018-03-19 21:28:42 INFO  ChromeTest:22 - New Chrome browser session initiated.
+2018-03-19 21:28:42 INFO  ChromeTest:24 - Implicit Wait set to 10 seconds.
+2018-03-19 21:28:43 INFO  HomePage:21 - New HomePage Object created.
+2018-03-19 21:28:44 INFO  HomePage:27 - Website loaded with URL: https://damp-garden-55551.herokuapp.com/
+2018-03-19 21:28:45 INFO  HomePage:32 - Home page sidebar Admin link clicked.
+2018-03-19 21:28:45 INFO  AdminLoginPage:26 - New AdminLoginPage Object created.
+2018-03-19 21:28:45 INFO  AdminLoginPage:30 - Returning Admin Login page title
+2018-03-19 21:28:46 INFO  ChromeTest:30 - Chrome browser session ended.
+2018-03-19 21:30:16 INFO  ChromeTest:22 - New Chrome browser session initiated.
+2018-03-19 21:30:16 INFO  ChromeTest:24 - Implicit Wait set to 10 seconds.
+2018-03-19 21:30:16 INFO  NewArticleTest:40 - Beginning createArticleTest.
+2018-03-19 21:30:16 INFO  HomePage:21 - New HomePage Object created.
+2018-03-19 21:30:16 INFO  NewArticleTest:96 - Beginning goToArticleTest.
+2018-03-19 21:30:16 INFO  NewArticleTest:120 - Beginning deleteArticleTest.
+2018-03-19 21:30:17 INFO  ChromeTest:30 - Chrome browser session ended.
+2018-03-20 16:36:07 INFO  ChromeTest:22 - New Chrome browser session initiated.
+2018-03-20 16:36:07 INFO  ChromeTest:24 - Implicit Wait set to 10 seconds.
+2018-03-20 16:36:07 INFO  NewArticleTest:40 - Beginning createArticleTest.
+2018-03-20 16:36:07 INFO  HomePage:21 - New HomePage Object created.
+2018-03-20 16:36:07 INFO  HomePage:21 - New HomePage Object created.
+2018-03-20 16:36:07 INFO  NewArticleTest:96 - Beginning goToArticleTest.
+2018-03-20 16:36:07 INFO  NewArticleTest:120 - Beginning deleteArticleTest.
+2018-03-20 16:36:08 INFO  ChromeTest:30 - Chrome browser session ended.
+2018-03-20 16:37:06 INFO  ChromeTest:22 - New Chrome browser session initiated.
+2018-03-20 16:37:06 INFO  ChromeTest:24 - Implicit Wait set to 10 seconds.
+2018-03-20 16:37:06 INFO  HomePage:21 - New HomePage Object created.
+2018-03-20 16:37:30 INFO  HomePage:27 - Website loaded with URL: https://damp-garden-55551.herokuapp.com/
+2018-03-20 16:37:32 INFO  HomePage:32 - Home page sidebar Admin link clicked.
+2018-03-20 16:37:33 INFO  AdminLoginPage:26 - New AdminLoginPage Object created.
+2018-03-20 16:37:33 INFO  AdminLoginPage:30 - Returning Admin Login page title
+2018-03-20 16:37:33 INFO  ChromeTest:30 - Chrome browser session ended.
+2018-03-20 16:38:04 INFO  ChromeTest:22 - New Chrome browser session initiated.
+2018-03-20 16:38:04 INFO  ChromeTest:24 - Implicit Wait set to 10 seconds.
+2018-03-20 16:38:04 INFO  NewArticleTest:40 - Beginning createArticleTest.
+2018-03-20 16:38:04 INFO  HomePage:21 - New HomePage Object created.
+2018-03-20 16:38:04 INFO  NewArticleTest:96 - Beginning goToArticleTest.
+2018-03-20 16:38:04 INFO  NewArticleTest:120 - Beginning deleteArticleTest.
+2018-03-20 16:38:05 INFO  ChromeTest:30 - Chrome browser session ended.
+2018-03-20 16:40:02 INFO  ChromeTest:22 - New Chrome browser session initiated.
+2018-03-20 16:40:02 INFO  ChromeTest:24 - Implicit Wait set to 10 seconds.
+2018-03-20 16:40:02 INFO  NewArticleTest:38 - Beginning createArticleTest.
+2018-03-20 16:40:02 INFO  HomePage:21 - New HomePage Object created.
+2018-03-20 16:40:05 INFO  HomePage:27 - Website loaded with URL: https://damp-garden-55551.herokuapp.com/
+2018-03-20 16:40:06 INFO  HomePage:32 - Home page sidebar Admin link clicked.
+2018-03-20 16:40:06 INFO  AdminLoginPage:26 - New AdminLoginPage Object created.
+2018-03-20 16:40:06 INFO  AdminLoginPage:36 - Userid input field set to "admin".
+2018-03-20 16:40:06 INFO  AdminLoginPage:38 - Password input field set (password hidden)
+2018-03-20 16:40:10 INFO  AdminLoginPage:40 - Login form submitted
+2018-03-20 16:40:10 INFO  AdminHomePage:18 - New AdminHomePage Object created.
+2018-03-20 16:40:10 INFO  AdminHomePage:24 - Logged in to admin dashboard successfully.
+2018-03-20 16:40:11 INFO  NewArticleTest:56 - Loaded the New Article page using the "New Article" submenu item in the Articles menu.
+2018-03-20 16:40:11 INFO  NewArticleTest:62 - Set the Article Title field to "Mike's first post".
+2018-03-20 16:40:11 INFO  NewArticleTest:64 - Set the Article Body field to "Here is the body of the post".
+2018-03-20 16:40:11 INFO  NewArticleTest:66 - Article form submitted.
+2018-03-20 16:40:12 INFO  NewArticleTest:74 - Submit article popup loaded.
+2018-03-20 16:40:12 INFO  NewArticleTest:77 - Set the Article Tag field to "MDposts".
+2018-03-20 16:40:13 INFO  NewArticleTest:88 - New Article with title "Mike's first post" created successfully.
+2018-03-20 16:40:13 INFO  NewArticleTest:94 - Beginning goToArticleTest.
+2018-03-20 16:40:15 INFO  NewArticleTest:98 - Website loaded with URL: https://damp-garden-55551.herokuapp.com/
+2018-03-20 16:40:16 INFO  NewArticleTest:104 - Tag page: "MDposts" loaded successfully.
+2018-03-20 16:40:18 INFO  NewArticleTest:110 - Post page with title: "Mike's first post" loaded successfully.
+2018-03-20 16:40:18 INFO  NewArticleTest:118 - Beginning deleteArticleTest.
+2018-03-20 16:40:19 INFO  NewArticleTest:122 - Website loaded with URL: https://damp-garden-55551.herokuapp.com/
+2018-03-20 16:40:21 INFO  NewArticleTest:126 - Admin login page loaded.
+2018-03-20 16:40:22 INFO  NewArticleTest:132 - Loaded the Manage articles page using the "All articles" submenu item in the Articles menu.
+2018-03-20 16:40:22 INFO  NewArticleTest:148 - Article with title "Mike's first post" deleted successfully.
+2018-03-20 16:40:24 INFO  ChromeTest:30 - Chrome browser session ended.
+2018-03-20 16:43:22 INFO  ChromeTest:22 - New Chrome browser session initiated.
+2018-03-20 16:43:22 INFO  ChromeTest:24 - Implicit Wait set to 10 seconds.
+2018-03-20 16:43:22 INFO  HomePage:21 - New HomePage Object created.
+2018-03-20 16:43:24 INFO  HomePage:27 - Website loaded with URL: https://damp-garden-55551.herokuapp.com/
+2018-03-20 16:43:25 INFO  HomePage:32 - Home page sidebar Admin link clicked.
+2018-03-20 16:43:25 INFO  AdminLoginPage:15 - New AdminLoginPage Object created.
+2018-03-20 16:43:25 INFO  AdminLoginPage:19 - Returning Admin Login page title
+2018-03-20 16:43:26 INFO  ChromeTest:30 - Chrome browser session ended.
